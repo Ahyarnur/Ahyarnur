@@ -12,7 +12,8 @@ START_SECTION:stats
   </tr>
 </table>
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ahyarnur)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahyar)
+
 
 <img src="/github-user-contribution.svg">
 
