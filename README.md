@@ -18,4 +18,8 @@
     </td>
   </tr>
 </table>
+
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ahyarnur)
+
 <img src="/github-user-contribution.svg">
